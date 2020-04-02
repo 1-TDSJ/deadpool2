@@ -4,3 +4,47 @@ body {
   background-repeat: no-repeat;
   color: #FFFFFF;
 }
+
+a {
+  text-decoration: none;
+  color: #1B96BD;
+  font-weight: 500;
+}
+
+div {
+  margin: 0 10% 0 10%;
+}
+
+.cabecalho {
+  background-color: rgba(0,0,0,0.5);
+  padding: 40px;
+  font-size: 40px;
+  position: relative;
+}
+
+.cabecalho ul {
+  list-style: none;
+  padding: 0 5px 0 5px;
+}
+
+.cabecalho ul li {
+    display: inline;
+}
+
+img {
+  display: inline-block;
+  border: solid 2px #000000;
+  box-shadow: 2px 2px 5px #000000;
+  padding: 5px 5px 150px 5px;
+  position: relative;
+}
+
+figcaption {
+  position: absolute;
+}
+
+.rodape {
+  padding: 50px;
+  background-color: (0,0,0,0.5);
+  font-size: 30px;
+}
