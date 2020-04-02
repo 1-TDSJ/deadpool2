@@ -22,16 +22,30 @@ div {
   position: relative;
 }
 
-.cabecalho ul {
+ul {
   list-style: none;
   padding: 0 5px 0 5px;
 }
 
-.cabecalho ul li {
+li {
     display: inline;
 }
 
-img {
+li a{
+  padding: 0 0 0 8%;
+}
+
+li:hover {
+    transition: background 1.2s;
+    background-color: rgba(255,0,0,0.5);
+}
+
+a:hover {
+    transition: color 1.2s;
+    color: rgba(0,0,0,0.5);
+}
+
+figure {
   display: inline-block;
   border: solid 2px #000000;
   box-shadow: 2px 2px 5px #000000;
@@ -44,7 +58,11 @@ figcaption {
 }
 
 .rodape {
+  background-color: rgba(0,0,0,0.5);
   padding: 50px;
-  background-color: (0,0,0,0.5);
   font-size: 30px;
+}
+
+.nomes {
+  font-weight: 600;
 }
