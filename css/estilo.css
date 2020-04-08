@@ -18,7 +18,7 @@ a{
   margin: 0px 10% 0px 10%;
 }
 
-.cabecalho{
+#cabecalho{
   background-color: rgba(0, 0, 0, 0.5);
   padding: 40px;
   font-size: 40px;
@@ -32,11 +32,16 @@ a{
 #cabecalho li{
   display: inline;
   padding: 0px 5px;
+  background-color: none;
+  transition: background-color 2s;
+  border-radius: 5px;
 }
 
-#corpo,figure, img{
-  box-sizing: border-box;
+#cabecalho li:HOVER{
+  background-color: #1B96BD;
 }
+
+
 
 #corpo figure{
   display: inline-block;
@@ -44,4 +49,20 @@ a{
   box-shadow: 2px 2px 5px #000000;
   padding: 5px 5px 150px 5px;
   position: relative;
+}
+
+#corpo figure figcaption{
+  position:
+}
+
+#rodape{
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 30px;
+}
+
+.nomes{
+
+  font-weight: 600;
+
 }
