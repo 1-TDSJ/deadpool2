@@ -1,0 +1,80 @@
+#container {
+
+  margin-left:-1%;
+  margin-right:-1%;
+  height:566px;
+}
+
+/*estilizando a lista marcada como menu*/
+#menu-vert{
+  padding: 4%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background: linear-gradient(to bottom,black 1%,transparent)
+
+}
+#menu-vert li{
+  display:inline;
+  padding-left: 9%;
+  margin-right: 0%;
+}
+#menu-vert li a{
+  padding: 3%;
+  color: #082cad;
+}
+
+.total{
+  background-image: linear-gradient(to bottom, #1d1d1d 5%, #ff0000 50%);
+  border-radius: 5px;
+  padding: 0.1%;
+}
+
+
+.img-side {
+  content: "frwv";
+    clear: both;
+    display:inline-table;}
+
+.img-side {
+  color:#ffffff;
+  padding: 2%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+.img-side0 {
+  float: left;
+    width: 20.33%;
+    padding: 4%;
+    margin-left: -3.8%;
+    margin-right: -0.8%;
+}
+
+.img-side1 {
+  float: left;
+  width: 21.33%;
+    padding: 4%;
+    margin-left: 15%;
+    margin-right: 0%;
+}
+
+.img-side2 {
+   float: left;
+       width: 0.33%;
+       padding: 15px;
+       margin-right: 21%;
+       margin-left: 0%;
+}
+
+
+#menu-vert2{
+  padding: 4%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background:linear-gradient(to bottom, transparent, black );
+
+}
+#menu-vert2 div{
+  padding: 1%;
+  color: #ffffff;
+}
