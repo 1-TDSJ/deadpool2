@@ -41,8 +41,6 @@ a{
   background-color: #1B96BD;
 }
 
-
-
 #corpo figure{
   display: inline-block;
   border: 2px solid #000000;
@@ -52,17 +50,14 @@ a{
 }
 
 #corpo figure figcaption{
-  position:
+  position:absolute;
+  font-weight: 600;
 }
-
 #rodape{
   padding: 50px;
   background-color: rgba(0, 0, 0, 0.5);
   font-size: 30px;
 }
-
 .nomes{
-
   font-weight: 600;
-
 }
