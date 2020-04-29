@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-body {
-  font-family: "Verdana", sans-serif;
-  background-image: linear-gradient(0deg, #ff0000 20%, #000000 90%);
-  background-repeat: no-repeat;
-  color: #FFFFFF;
-}
-
-a {
-  text-decoration: none;
-  color: #1B96BD;
-  font-weight: 500;
-}
-
-#container {
-  margin: 0 10% 0 10%;
-}
-
-.cabecalho {
-  background-color: rgba(0,0,0,0.5);
-=======
-=======
->>>>>>> 152867a9274bb8070e07e5d6474751e9c4728499
 @charset "UTF-8";
 
 *{
@@ -67,43 +43,10 @@ a{
 |Posicionamento relativo.*/
 .cabecalho{
   background-color: rgba(0, 0, 0, 0.5);
-<<<<<<< HEAD
->>>>>>> profale
-=======
->>>>>>> 152867a9274bb8070e07e5d6474751e9c4728499
   padding: 40px;
   font-size: 40px;
   position: relative;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-ul {
-  list-style: none;
-  padding: 0 5px 0 5px;
-}
-
-li {
-    display: inline;
-    padding: 0 0 0 8%
-}
-
-li:hover {
-    transition: background 1.2s;
-    background-color: #1B96BD;
-}
-
-a:hover {
-    transition: color 1.2s;
-    color: rgba(0,0,0,0.5);
-}
-
-figure {
-  display: inline-block;
-  border: solid 2px #000000;
-=======
-=======
->>>>>>> 152867a9274bb8070e07e5d6474751e9c4728499
 /*Para a lista determine os seguintes estilos:
 | Retire o estilo de lista.
 | Coloque os itens em linha.
@@ -127,33 +70,10 @@ figure {
 figure{
   display: inline-block;
   border: 2px solid #000000;
-<<<<<<< HEAD
->>>>>>> profale
-=======
->>>>>>> 152867a9274bb8070e07e5d6474751e9c4728499
   box-shadow: 2px 2px 5px #000000;
   padding: 5px 5px 150px 5px;
   position: relative;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-figcaption {
-  position: absolute;
-}
-
-.rodape {
-  background-color: rgba(0,0,0,0.5);
-  padding: 50px;
-  font-size: 30px;
-}
-
-#nome {
-  font-weight: 600;
-}
-=======
-=======
->>>>>>> 152867a9274bb8070e07e5d6474751e9c4728499
 /*Para o elemento responsável pelas legendas determine os seguintes estilos: | Posição absoluta.*/
 figure  figcaption{
   position: absolute;
@@ -177,119 +97,3 @@ figure  figcaption{
 .art{
   font-weight: 600;
 }
-<<<<<<< HEAD
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
->>>>>>> profale
-=======
->>>>>>> 152867a9274bb8070e07e5d6474751e9c4728499
